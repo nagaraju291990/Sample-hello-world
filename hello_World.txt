@@ -1,2 +1,3 @@
 Hello world edited in master branch
 Hello world edited in branch1
+edited in master branch from terminal.
