@@ -3,3 +3,4 @@ Hello world edited in branch1
 edited in master branch from terminal.
 edited by someone
 edited by aram
+edited in local by param
